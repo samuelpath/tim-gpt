@@ -951,7 +951,7 @@ episodes_metadata = [
     }
 ]
 
-episodes_metadata_2023 = [
+episodes_metadata_list_2023 = [
     {
         "id": 649,
         "url": "https://tim.blog/2023/01/16/rick-rubin-2-transcript/",
@@ -1213,3 +1213,218 @@ episodes_metadata_2023 = [
         "title": "The Random Show — 2024 New Year’s Resolutions, Tim’s 30-Day No-Caffeine Experiment, Mental Health Breakthroughs, AI Upheaval, Dealmaking and Advising for Startups, The Next-Gen of Note-Taking, Digital Security Tips, and Much More"
     }
 ]
+
+episodes_metadata_dict_2023 = {
+    "648": {
+        "url": "https://tim.blog/2023/01/06/james-clear-atomic-habits-transcript/",
+        "title": "James Clear, Atomic Habits — Mastering Habits, Growing an Email List to 2M+ People, Selling 10M+ Books, Cultivating Self-Awareness, and Much More"
+    },
+    "649": {
+        "url": "https://tim.blog/2023/01/16/rick-rubin-2-transcript/",
+        "title": "Rick Rubin, Legendary Music Producer — The Creative Act, Overcoming Creative Blocks, Developing Your Perception and Sensitivities, Reinvention vs. Going Narrow, The Future and AI, and Much More"
+    },
+    "650": {
+        "url": "https://tim.blog/2023/01/21/matthew-walker-sleep-transcript/",
+        "title": "Dr. Matthew Walker, All Things Sleep — How to Improve Sleep, How Sleep Ties Into Alzheimer’s Disease and Weight Gain, and How Medications (Ambien, Trazodone, etc.), Caffeine, THC/CBD, Psychedelics, Exercise, Smart Drugs, Fasting, and More Affect Sleep"
+    },
+    "651": {
+        "url": "https://tim.blog/2023/01/25/bill-gurley-transcript/",
+        "title": "Legendary Investor Bill Gurley on Investing Rules, Finding Outliers, Insights from Jeff Bezos and Howard Marks, Must-Read Books, Creating True Competitive Advantages, Open-Source Strategies, Adapting Mental Models to New Realities, and More"
+    },
+    "652": {
+        "url": "https://tim.blog/2023/01/30/wade-davis-transcript/",
+        "title": "Famed Explorer Wade Davis — How to Become the Architect of Your Life, The Divine Leaf of Immortality, Rites of Passage, Voodoo Demystified, Optimism as the Purpose of Life, How to Be a Prolific Writer, Psychedelics, Monetizing the Creativity of Your Life, and More"
+    },
+    "653": {
+        "url": "https://tim.blog/2023/02/04/elan-lee-transcript/",
+        "title": "Elan Lee, Co-Creator of Exploding Kittens — How to Raise Millions on Kickstarter, Deconstructing Mega-Successes, Secrets of Game Design, The Power of Positive Constraints, The Delights of Craftsmanship, and The Art of Turning Fans into Superfans"
+    },
+    "654": {
+        "url": "https://tim.blog/2023/02/10/dr-matthew-walker-transcript/",
+        "title": "Dr. Matthew Walker, All Things Sleep Continued — The Hidden Dangers of Melatonin, Tools for Insomnia, Enhancing Learning and Sleep Spindles, The Upsides of Sleep Divorce, How Sleep Impacts Sex (and Vice Versa), Adventures in Lucid Dreaming, The One Clock to Rule Them All, The IP Addresses of Your Memories, and More"
+    },
+    "657": {
+        "url": "https://tim.blog/2023/02/25/john-vervaeke-transcript/",
+        "title": "Professor John Vervaeke — On Cultivating Wisdom, Finding Flow States, The Power and Perils of Intuition, The Four Ways of Knowing, Learning to Fall in Love with Reality, and More"
+    },
+    "658": {
+        "url": "https://tim.blog/2023/03/03/matt-mochary-transcript/",
+        "title": "CEO Coach Matt Mochary — Live Coaching with Tim, Why Fear and Anger Give Bad Advice, How to Perform Personal Energy Audits, The Power of Accountability Partners, Delegation Tips, Strategies for Hiring the Right People, and More"
+    },
+    "659": {
+        "url": "https://tim.blog/2023/03/03/michael-mauboussin-transcript/",
+        "title": "Michael Mauboussin — How Great Investors Make Decisions, Harnessing The Wisdom (vs. Madness) of Crowds, Lessons from Race Horses, and More"
+    },
+    "660": {
+        "url": "https://tim.blog/2023/03/10/dr-andrew-huberman-transcript/",
+        "title": "Dr. Andrew Huberman — The Foundations of Physical and Mental Performance, Core Supplements, Sexual Health and Fertility, Sleep Optimization, Psychedelics, and More"
+    },
+    "661": {
+        "url": "https://tim.blog/2023/03/17/peter-attia-outlive-transcript/",
+        "title": "Dr. Peter Attia — The Science and Art of Longevity"
+    },
+    "662": {
+        "url": "https://tim.blog/2023/03/24/david-deutsch-naval-ravikant-transcript/",
+        "title": "David Deutsch and Naval Ravikant — The Fabric of Reality, The Importance of Disobedience, The Inevitability of Artificial General Intelligence, Finding Good Problems, Redefining Wealth, Foundations of True Knowledge, Harnessing Optimism, Quantum Computing, and More"
+    },
+    "664": {
+        "url": "https://tim.blog/2023/04/01/kelly-starrett-transcript/",
+        "title": "Dr. Kelly Starrett — The Magic of Movement and Mobility, Training for Range of Motion, Breathing for Back Pain, Improving Your Balance, and More"
+    },
+    "665": {
+        "url": "https://tim.blog/2023/04/10/danny-meyer-transcript/",
+        "title": "Danny Meyer, Founder of Shake Shack — How to Win, The Art of The Graceful “No,” Overcoming Setbacks, The 6 Traits of Exceptional People, The 4 Quadrants of Performance, Lessons from Hospitality Excellence, and More&nbsp;"
+    },
+    "667": {
+        "url": "https://tim.blog/2023/04/24/gul-dolen-transcript/",
+        "title": "Dr. Gül Dölen on Rethinking Psychedelics, New Applications (Autism, Stroke, and Allergies), The Neurobiology of Beginner’s Mind, Octopuses on MDMA, and The Master Key of Metaplasticity"
+    },
+    "668": {
+        "url": "https://tim.blog/2023/04/23/derek-sivers-transcript/",
+        "title": "Derek Sivers — The Joys of an Un-Optimized Life, Finding Paths Less Traveled, Creating Tech Independence (and Risks of the Cloud), Taking Giant Leaps, and Picking the Right “Game of Life”"
+    },
+    "669": {
+        "url": "https://tim.blog/2023/04/28/kevin-kelly-excellent-advice-for-living-transcript/",
+        "title": "Kevin Kelly on Excellent Advice for Living, Universal AI Assistants, Time Machines, and The Power of Fully Becoming Yourself&nbsp;"
+    },
+    "670": {
+        "url": "https://tim.blog/2023/05/04/the-random-show-kevin-rose-ai-companions-transcript/",
+        "title": "The Random Show with Kevin Rose — The $1M Bitcoin Bet, Japanophilia, Rare IPAs, Preventing Hangovers, AI Companions, Fringe Discords, Affordable Luxuries, High-Fidelity Audio, and Much More"
+    },
+    "671": {
+        "url": "https://tim.blog/2023/05/14/bobby-hundreds-transcript/",
+        "title": "Bobby Hundreds — Building an Iconic Streetwear Brand, Making $7 Million in 40 Minutes, The Power of Garfield, Why Korean Entertainment is Taking Over the World, Maintaining the Mystery, The Fickleness of Fortune, and Developing “Nunchi”"
+    },
+    "672": {
+        "url": "https://tim.blog/2023/05/18/seth-godin-2-transcript/",
+        "title": "Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and Committing to Making Positive Change"
+    },
+    "673": {
+        "url": "https://tim.blog/2023/05/25/dr-nora-volkow-transcript/",
+        "title": "Dr. Nora Volkow — Director of the National Institute on Drug Abuse (NIDA)"
+    },
+    "674": {
+        "url": "https://tim.blog/2023/05/29/david-eagleman-transcript/",
+        "title": "Neuroscientist David Eagleman — Exploring Consciousness, Sensory Augmentation, The Lazy Susan Method of Extraordinary Productivity, Dreaming, Improving Hearing with a Wristband, Synesthesia, Stretching Time with Novelty, Lessons from Titans of Science, and Much More"
+    },
+    "675": {
+        "url": "https://tim.blog/2023/06/03/eric-cressey-transcript/",
+        "title": "Eric Cressey, Cressey Sports Performance — Tactical Deep Dive on Back Pain, Movement Diagnosis, Training Principles, Developing Mobility, Building Power, Fascial Manipulation, and Rules for Athletes"
+    },
+    "676": {
+        "url": "https://tim.blog/2023/06/08/david-maisel-marvel-transcript/",
+        "title": "David Maisel of Marvel Studios Fame — Never-Before-Heard Tales of Hollywood Dealmaking, The Art of Aiming Big, Lessons from Power Broker Michael Ovitz, Combining Business Smarts with Street Smarts, The Making (and Importance) of Iron Man, Selling to Disney for $4 Billion, and Much More"
+    },
+    "677": {
+        "url": "https://tim.blog/2023/06/16/heresies-transcript/",
+        "title": "HERESIES with Co-Hosts Kevin Kelly and Noah Feldman"
+    },
+    "678": {
+        "url": "https://tim.blog/2023/06/23/jake-muise-transcript/",
+        "title": "Jake Muise — The Lava Cowboys’ Rescue Mission, Lessons from a Three-Year Hunt, How to Build Exceptional Teams, Repairing Ecosystems, and Tactics for Relationship and Parenting Success"
+    },
+    "679": {
+        "url": "https://tim.blog/2023/07/03/simon-coronel-transcipt/",
+        "title": "Simon Coronel, World Champion of Magic — Quitting the Day Job, The Delights of the Magic Castle, Finding Glitches in Reality, Learning How to Use Your Own Brain, and Worshiping at the Altar of Wonder"
+    },
+    "680": {
+        "url": "https://tim.blog/2023/07/07/richard-koch-2-transcript/",
+        "title": "Richard Koch — Revisiting the 80/20 Principle, The Power of Optimistic Journaling, Studying History to Improve Investing, and The Grand Beliefs of Winners (Plus: The Toxic Beliefs of Losers)"
+    },
+    "681": {
+        "url": "https://tim.blog/2023/07/15/john-romero-transcript/",
+        "title": "Doom Legend John Romero — The Path to Prolific Innovation and Making 130+ Games, How to Find the Soul of the Work, Audacious Ambition, and Building in Monk Mode"
+    },
+    "682": {
+        "url": "https://tim.blog/2023/07/20/bill-gurley-interviews-tim-ferriss-transcript/",
+        "title": "Bill Gurley Interviews Tim Ferriss — Reflecting on 20+ Years of Life and Business Experiments"
+    },
+    "684": {
+        "url": "https://tim.blog/2023/07/30/jack-kornfield-3-transcript/",
+        "title": "Jack Kornfield — How to Reduce Anxiety and Polish the Lens of Consciousness"
+    },
+    "685": {
+        "url": "https://tim.blog/2023/08/07/dr-shirley-sahrmann-transcript/",
+        "title": "Dr. Shirley Sahrmann — A Legendary PT Does a Deep Dive on Tim’s Low-Back Issues, Teaches How to Unlearn Painful Patterns, Talks About Movement as Medicine (or Poison), and More"
+    },
+    "686": {
+        "url": "https://tim.blog/2023/08/10/dustin-moskovitz-2-transcript/",
+        "title": "Dustin Moskovitz, Co-Founder of Asana and Facebook — Energy Management, Coaching for Endurance, No Meeting Wednesdays, Understanding the Real Risks of AI, Embracing Frictionless Work with AI, The Value of Holding Stories Loosely, and More"
+    },
+    "687": {
+        "url": "https://tim.blog/2023/08/21/justin-gary-transcript/",
+        "title": "Justin Gary — Taking the Path Less Traveled, The Phenomenon of “Magic: The Gathering,” How Analytical People Can Become “Creative” People, Finding the Third Right Answer, and How to Escape Your Need for Control"
+    },
+    "689": {
+        "url": "https://tim.blog/2023/08/25/david-and-daniil-liberman-transcript/",
+        "title": "The Brothers Who Live One Life — The Incredible Adventures of David and Daniil Liberman"
+    },
+    "690": {
+        "url": "https://tim.blog/2023/09/04/the-random-show-drinking-edition-transcipt/",
+        "title": "The Random Show, Rare Drinking Edition — Affordable Luxuries, Brain Stimulation, Sampling the Future (and Some Previews), Recharging with Creative Experiments, Tokenizing Humans with a Bonding Curve, Poetry for People Who Hate Poetry, and Much More"
+    },
+    "691": {
+        "url": "https://tim.blog/2023/09/08/nassim-nicholas-taleb-scott-patterson-transcript/",
+        "title": "Nassim Nicholas Taleb &amp; Scott Patterson — How Traders Make Billions in The New Age of Crisis, Defending Against Silent Risks, Personal Independence, Skepticism Where It (Really) Counts, The Bishop and The Economist, and Much More"
+    },
+    "692": {
+        "url": "https://tim.blog/2023/09/12/arthur-c-brooks-transcript/",
+        "title": "Arthur C. Brooks — How to Be Happy, Reverse Bucket Lists, The Four False Idols, Muscular Philosophies, Practical Inoculation Against the Darkness, and More"
+    },
+    "694": {
+        "url": "https://tim.blog/2023/09/21/sam-corcos-transcript/",
+        "title": "Sam Corcos, Co-Founder of Levels — The Ultimate Guide to Virtual Assistants, 10x Delegation, and Winning Freedom by Letting Go (Plus: Creating Leverage with Tools, Systems, and Processes)"
+    },
+    "695": {
+        "url": "https://tim.blog/2023/09/29/shane-parrish-farnam-street-transcript/",
+        "title": "Shane Parrish on Wisdom from Warren Buffett, Rules for Better Thinking, How to Reduce Blind Spots, The Dangers of Mental Models, and More (#695)"
+    },
+    "696": {
+        "url": "https://tim.blog/2023/10/03/arnold-schwarzenegger-be-useful-transcript/",
+        "title": "Be Useful — Arnold Schwarzenegger on 7 Tools for Life, Thinking Big, Building Resilience, Processing Grief, and More"
+    },
+    "697": {
+        "url": "https://tim.blog/2023/10/10/rich-paul-transcript/",
+        "title": "Rich Paul — The Power Broker and Superstar Agent Behind LeBron James, Draymond Green, and Others"
+    },
+    "698": {
+        "url": "https://tim.blog/2023/10/16/story-of-coffee-transcript/",
+        "title": "Dr. Mark Plotkin on Coffee, the World’s Favorite Stimulant — Chemistry, History, and More"
+    },
+    "699": {
+        "url": "https://tim.blog/2023/10/22/apollo-robbins-transcript/",
+        "title": "Apollo Robbins, The World’s Most Famous Pickpocket — Pickpocketing the Secret Service, Manipulating Attention, Famous Con Artists, The Psychology of Deception, Self-Defense Techniques, The Secret Language of Thieves, and More"
+    },
+    "700": {
+        "url": "https://tim.blog/2023/10/26/guy-laliberte-cirque-du-soleil-transcript/",
+        "title": "Guy Laliberté, Founder of Cirque du Soleil — The Power of Belief, Street Gangs, Wild Tales from Las Vegas, The Dangers of Nurturing Fear, and Dancing on the Cliff"
+    },
+    "702": {
+        "url": "https://tim.blog/2023/11/02/morgan-housel-transcript/",
+        "title": "Morgan Housel — Contrarian Money and Writing Advice, Three Simple Goals to Guide Your Life, Journaling Prompts, Choosing the Right Game to Play, Must-Read Books, and More"
+    },
+    "703": {
+        "url": "https://tim.blog/2023/11/09/sheila-heen-feedback-transcript/",
+        "title": "Sheila Heen — How to Master the Difficult Art of Receiving (and Giving) Feedback"
+    },
+    "704": {
+        "url": "https://tim.blog/2023/11/15/qa-with-tim-ferriss-2-transcript/",
+        "title": "Q&amp;A with Tim — New Religions, AI Companions, Longevity Levers, Resurrecting “Forgotten” Languages, Stress-Testing Cherished Beliefs, Tactics for Writer’s Block, Low-Back Pain, and Much More"
+    },
+    "705": {
+        "url": "https://tim.blog/2023/11/23/dr-willoughby-britton-transcript/",
+        "title": "Dr. Willoughby Britton — The Hidden Risks of Meditation, Overlaps with Psychedelic Risks, Harm Reduction Strategies, How to Choose a Retreat, Near-Death Experiences, and More"
+    },
+    "707": {
+        "url": "https://tim.blog/2023/12/01/steve-jang-live-from-south-korea-transcript/",
+        "title": "Live from South Korea — Steve Jang on Korea’s Exploding “Soft Power,” The Poverty-to-Power Playbook, K-Pop, “Han” Energy, Must-See Movies, Export Economies, and Much More"
+    },
+    "711": {
+        "url": "https://tim.blog/2023/12/26/andrew-rosener-transcript/",
+        "title": "Andrew Rosener — The Path from Scallop Kingpin to Selling 8-Figure Domains, Achieving Financial Freedom, and How to Live a Contrarian Life"
+    },
+    "712": {
+        "url": "https://tim.blog/2023/12/29/the-random-show-2024-new-years-resolutions-transcript/",
+        "title": "The Random Show — 2024 New Year’s Resolutions, Tim’s 30-Day No-Caffeine Experiment, Mental Health Breakthroughs, AI Upheaval, Dealmaking and Advising for Startups, The Next-Gen of Note-Taking, Digital Security Tips, and Much More"
+    }
+}
