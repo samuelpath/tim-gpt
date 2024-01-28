@@ -1,101 +1,4 @@
-qa_pairs = [
-    # Goding Q&A
-    {
-        "question": "What is the title of Seth Godin's new book?",
-        "answer": "The Song of Significance: A New Manifesto for Teams"
-    },
-    {
-        "question": "What is Seth Godin known for?",
-        "answer": "Seth Godin is known for being the author of 21 international bestsellers and for his popular marketing blog."
-    },
-    {
-        "question": "According to Seth Godin, what is the only thing each of us truly gets to pick?",
-        "answer": "Our attitude"
-    },
-    {
-        "question": "What is the focus of Viktor Frankl's work?",
-        "answer": "Viktor Frankl's work focused on finding meaning in life."
-    },
-    {
-        "question": "Why did Seth Godin create The Carbon Almanac?",
-        "answer": "Seth Godin created The Carbon Almanac because he realized that he and others were underinformed about what was happening to the climate and wanted to provide information to the community."
-    },
-    {
-        "question": "What is the author's perspective on nihilism and its prevalence?",
-        "answer": "The author acknowledges the presence of nihilism and its increasing prevalence, especially among younger people, but also notes that it is not a new phenomenon."
-    },
-    {
-        "question": "According to the survey mentioned, what were the common factors that made a job the best job someone ever had?",
-        "answer": "The common factors that made a job the best job someone ever had were accomplishing more than they thought they could, being treated with respect, and doing work they were proud of."
-    },
-    {
-        "question": "According to the text, what were the results of the survey about the best job people ever had?",
-        "answer": "The results of the survey showed that people felt the best job they ever had when they accomplished more than they thought they could, were treated with respect, and did work they were proud of."
-    },
-    {
-        "question": "According to Seth Godin, how can someone become a marketer?",
-        "answer": "According to Seth Godin, someone can become a marketer by finding a charity they care about and raising money for them, or by selling items on eBay, or by telling a story that changes someone, or by making someone feel better through interaction."
-    },
-    {
-        "question": "What is the main point Seth Godin is trying to make about agency?",
-        "answer": "Seth Godin believes that most people have more agency than they realize and should take action to make a difference in their work and personal lives."
-    },
-    {
-        "question": "After Seth's near-drowning experience and hearing about Frankie's passing, what did the subsequent week look like for him?",
-        "answer": "The subsequent week for Seth involved a shift in focus towards significance and a realization of the power that individuals possess."
-    },
-    {
-        "question": "Why did Seth Godin decide to write a whole book instead of just writing a few blog posts?",
-        "answer": "Seth Godin decided to write a whole book because it would be a more irrational lift and help people understand that he has something important to say."
-    },
-    {
-        "question": "According to Seth Godin, what is the significance of what can be built by Cesar Chavez or The Carbon Almanac team?",
-        "answer": "The significance has nothing to do with soft or hard, but with the idea that you make a promise and keep it, and have a lot of rigor in criticizing the work but not the worker."
-    },
-    {
-        "question": "What was Seth Godin's initial impression of Tim Ferriss?",
-        "answer": "Seth Godin was completely wrong about his first impression of Tim Ferriss."
-    },
-    {
-        "question": "What are false proxies and how are they used in different aspects of life?",
-        "answer": "False proxies are indicators or clues that are used as substitutes for evaluating something or someone. In the text, false proxies are used in various situations such as shopping for groceries, choosing a restaurant, buying a book, and hiring employees."
-    },
-    {
-        "question": "According to Seth Godin, what is the problem with using proxies when deciding who to hire?",
-        "answer": "Proxies don't match up with the qualities that are actually important for the job."
-    },
-    {
-        "question": "According to Seth Godin, why is turnover a good thing when doing human work?",
-        "answer": "Turnover is a good thing when doing human work because it means that people are staying because they want to, not because they can't find a better job."
-    },
-    {
-        "question": "What is the name of the book written by Mahan Khalsa?",
-        "answer": "Let’s Get Real or Let’s Not Play"
-    },
-    {
-        "question": "What was the transition that Seth Godin needed to make in order to keep going despite facing rejection?",
-        "answer": "The transition Seth Godin needed to make was to understand that when people rejected his ideas, they were rejecting the work and not him personally. He needed to learn from their criticism to improve his future ideas."
-    },
-    {
-        "question": "What did Seth Godin need before going on stage at the B conference?",
-        "answer": "Seth Godin needed a shtick or anecdote to get started."
-    },
-    {
-        "question": "What did Tobi at Shopify do to address the issue of wasted time in meetings?",
-        "answer": "Tobi at Shopify deleted every group meeting that was regularly scheduled in the whole company and sent an email to everyone in the company saying 'I just bought you back your day.'"
-    },
-    {
-        "question": "What is the concept of 'page 19 thinking' mentioned in the text?",
-        "answer": "Page 19 thinking is the idea of acknowledging that there is a task or problem that needs to be addressed in the future, even if there is currently no one on the team who is qualified to handle it. The solution is to start the process by having someone write a paragraph or provide a starting point, and then have others contribute and improve upon it."
-    },
-    {
-        "question": "According to Seth Godin, what does it mean to live in a 'page 19 world'?",
-        "answer": "Living in a 'page 19 world' means putting out work that can be generously criticized and creating conditions for improvement."
-    },
-    {
-        "question": "What does the author express gratitude for?",
-        "answer": "The author expresses gratitude for being able to do what they do and for the people who support their work."
-    },
+qa_pairs_attia = [
     {
         "question": "Where can listeners find the show notes for this episode?",
         "answer": "Listeners can find the show notes for this episode at tim.blog/podcast."
@@ -260,7 +163,6 @@ qa_pairs = [
         "question": "How many downloads does The Tim Ferriss Show have?",
         "answer": "More than 900 million downloads."
     },
-    # Attia Q&a
     {
         "question": "What is the name of Dr. Peter Attia's new book?",
         "answer": "Outlive: The Science and Art of Longevity"
@@ -416,8 +318,7 @@ qa_pairs = [
     {
         "question": "How many downloads does The Tim Ferriss Show have?",
         "answer": "More than 900 million downloads."
-    },
-    # Perrish Q&A
+    }]
     {
         "question": "What is the name of Shane Parrish's popular online course?",
         "answer": "Decision by Design"
